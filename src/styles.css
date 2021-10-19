@@ -305,7 +305,7 @@ section .button button:hover{
   color: #4070f4;
 }
 .skills-details .boxes .per{
-  font-size: 60px;
+  font-size: 50px;
   color: #4070f4;
 }
 
@@ -357,6 +357,7 @@ section .button button:hover{
 /* Contact Me CSS */
 .contact{
   background: #F0F8FF;
+  padding-bottom: 160px;
 }
 .contact .content{
   margin: 0 auto;
@@ -370,6 +371,7 @@ section .button button:hover{
 
 .button a{
   text-decoration: none;
+  
 }
 
 /* Footer CSS */
